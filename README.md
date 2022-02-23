@@ -1,4 +1,4 @@
-# Health Place PHP Developer Techincal Assessment
+# Health Place PHP Developer Technical Assessment
 
 Health Place provides multiple types of listings for search results, each with varying data structures. For example, an `app` will have an iOS and/or a Google Play Store URL, whereas a `face to face support group` will need an address.
 
